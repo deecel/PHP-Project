@@ -6,6 +6,9 @@ The OJT Monitoring System is a web-based application developed in PHP for managi
 This system provides both administrative and user interfaces, streamlining the tracking of OJT progress, reports, and evaluations.
 <br />
 <br />
+<p align="center">
+(OJT.png)
+</p>
 
 
 
